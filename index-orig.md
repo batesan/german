@@ -1,13 +1,3 @@
-Just a simple site for me to learn Jekyll and the German language.
-
-<hr>
-
-Site based on the Modernist theme, which is a theme for GitHub Pages.
-
-Theme instructions below.
-
-<hr>
-
 ---
 layout: default
 ---
