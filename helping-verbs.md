@@ -1,5 +1,5 @@
 
-## Helping verbs
+## Helping Verbs
 
 Apparently there are three of these 'Helping Verbs' and you pretty much have to know them to understand anything in any context. These are **"haben"**, **"sein"** and **"werden"**.
 
@@ -14,6 +14,8 @@ Apparently there are three of these 'Helping Verbs' and you pretty much have to 
 | ihr        | habt       | hattet     | werdet haben |
 | sie/Sie    | haben      | hatten     | werden haben |
 
+> past participle = gehabt
+
 ### sein (to be)
 
 | pronoun    | Present    | Past       | Future |
@@ -25,6 +27,7 @@ Apparently there are three of these 'Helping Verbs' and you pretty much have to 
 | ihr        | seid       | wart       | werdet sein |
 | sie/Sie    | sind       | waren      | werden sein |
 
+> past participle = gewesen
 
 ### werden (to become)
 
@@ -37,6 +40,6 @@ Apparently there are three of these 'Helping Verbs' and you pretty much have to 
 | ihr        | werdet     | wurdet     | werdet werden |
 | sie/Sie    | werden     | wurden     | werden werden |
 
-
+> past participle = geworden
 
 [back](./)

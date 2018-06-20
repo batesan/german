@@ -10,6 +10,15 @@ layout: default
 
 [Link to Helping Verbs](./helping-verbs.html).
 
+### Now for some nice easy 'regular' Weak Verbs.
+
+[Link to Weak Verbs](./weak-verbs.html).
+
+### Some useful links
+
+- [GermanVeryEasy.com](https://www.germanveryeasy.com)
+- [University of Michigan - German 101-326](https://www.lsa.umich.edu/german/hmr/index.html)
+
 
 ```
 End
