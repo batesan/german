@@ -18,6 +18,7 @@ layout: default
 
 - [GermanVeryEasy.com](https://www.germanveryeasy.com)
 - [University of Michigan - German 101-326](https://www.lsa.umich.edu/german/hmr/index.html)
+- [German for English Speakers](http://germanforenglishspeakers.com/)
 
 
 ```
