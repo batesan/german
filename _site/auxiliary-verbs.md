@@ -1,7 +1,9 @@
 
-## Helping Verbs
+## Auxiliary verbs
 
-Apparently there are three of these 'Helping Verbs' and you pretty much have to know them to understand anything in any context. These are **"haben"**, **"sein"** and **"werden"**.
+Auxiliary verbs (also known as 'Helping Verbs') are used with other verbs to form compound tenses. For example, "I _**will**_ learn German" / "Ich _**werde**_ Deutsche lernen".
+
+There are 3 Auxiliary verbs and you pretty much have to know them to understand anything in any context. These are **haben**, **sein** and **werden**.
 
 ### haben (to have)
 

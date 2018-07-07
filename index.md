@@ -6,11 +6,15 @@ layout: default
 
 
 
-### Lets start with the Helping Verbs.
+### Lets start with the Auxiliary verbs.
 
-[Link to Helping Verbs](./helping-verbs.html).
+[Link to Auxiliary verbs](./auxiliary-verbs.html).
 
-### Now for some nice easy 'regular' Weak Verbs.
+### Then move to the Modal verbs.
+
+[Link to Modal verbs](./modal-verbs.html).
+
+### Now for some nice easy 'regular' Weak verbs.
 
 [Link to Weak Verbs](./weak-verbs.html).
 
@@ -19,6 +23,7 @@ layout: default
 - [GermanVeryEasy.com](https://www.germanveryeasy.com)
 - [University of Michigan - German 101-326](https://www.lsa.umich.edu/german/hmr/index.html)
 - [German for English Speakers](http://germanforenglishspeakers.com/)
+- [Verbix German Verb Conjugator](http://www.verbix.com/languages/german.html)
 
 
 ```
