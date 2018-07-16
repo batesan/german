@@ -24,6 +24,7 @@ layout: default
 - [University of Michigan - German 101-326](https://www.lsa.umich.edu/german/hmr/index.html)
 - [German for English Speakers](http://germanforenglishspeakers.com/)
 - [Verbix German Verb Conjugator](http://www.verbix.com/languages/german.html)
+- [Verbformen.com](https://www.verbformen.com/)
 
 
 ```
