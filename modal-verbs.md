@@ -19,13 +19,68 @@ There are 6 modal verbs and like the other auxiliary verbs, it will be difficult
 
 ### können (can / to be able to)
 
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | kann       | konnte     | werde können  |
+| du         | kannst     | konntest   | wirst können  |
+| er/sie/es  | kann       | konnte     | wird können   |
+| wir        | können     | konnten    | werden können |
+| ihr        | könnt      | konntet    | werdet können |
+| sie/Sie    | können     | konnten    | werden können |
+
+> past participle = gekonnt
+
 ### mögen (to like / to like to)
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | mag        | mochte     | werde mögen  |
+| du         | magst      | mochtest   | wirst mögen  |
+| er/sie/es  | mag        | mochte     | wird mögen   |
+| wir        | mögen      | mochten    | werden mögen |
+| ihr        | mögt       | mochtet    | werdet mögen |
+| sie/Sie    | mögen      | mochten    | werden mögen |
+
+> past participle = gemocht
 
 ### müssen (must)
 
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | muss       | musste     | werde müssen  |
+| du         | musst      | musstest   | wirst müssen  |
+| er/sie/es  | muss       | musste     | wird müssen   |
+| wir        | müssen     | mussten    | werden müssen |
+| ihr        | müsst      | musstet    | werdet müssen |
+| sie/Sie    | müssen     | mussten    | werden müssen |
+
+> past participle = gemusst
+
 ### sollen (should)
 
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | soll       | sollte     | werde sollen  |
+| du         | sollst     | solltest   | wirst sollen  |
+| er/sie/es  | soll       | sollte     | wird sollen   |
+| wir        | sollen     | sollten    | werden sollen |
+| ihr        | sollt      | solltet    | werdet sollen |
+| sie/Sie    | sollen     | sollten    | werden sollen |
+
+> past participle = gesollt
+
 ### wollen (to want to)
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | will       | wollte     | werde wollen  |
+| du         | willst     | wolltest   | wirst wollen  |
+| er/sie/es  | will       | wollte     | wird wollen   |
+| wir        | wollen     | wollten    | werden wollen |
+| ihr        | wollt      | wolltet    | werdet wollen |
+| sie/Sie    | wollen     | wollten    | werden wollen |
+
+> past participle = gewollt
 
 
 [back](./)
