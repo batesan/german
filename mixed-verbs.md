@@ -17,5 +17,19 @@ Although there are almost 100 mixed verbs in total, many of them are formed from
 
 > past participle = gebrannt
 
+### bringen (to bring)
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | bringe     | brachte    | werde bringen  |
+| du         | bringst    | brachtest  | wirst bringen  |
+| er/sie/es  | bringt     | brachte    | wird bringen   |
+| wir        | bringen    | brachten   | werden bringen |
+| ihr        | bringt     | brachtet   | werdet bringen |
+| sie/Sie    | bringen    | brachten   | werden bringen |
+
+> past participle = gebracht
+
+
 
 [back](./)
