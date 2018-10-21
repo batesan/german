@@ -14,6 +14,10 @@ layout: default
 
 [Link to Modal verbs](./modal-verbs.html).
 
+### Here are some Mixed verbs.
+
+[Link to Mixed verbs](./mixed-verbs.html).
+
 ### Now for some nice easy 'regular' Weak verbs.
 
 [Link to Weak Verbs](./weak-verbs.html).
@@ -25,6 +29,7 @@ layout: default
 - [German for English Speakers](http://germanforenglishspeakers.com/)
 - [Verbix German Verb Conjugator](http://www.verbix.com/languages/german.html)
 - [Verbformen.com](https://www.verbformen.com/)
+- [German Verbs by lang.global](https://germanverbs.lang.global/)
 
 
 ```
