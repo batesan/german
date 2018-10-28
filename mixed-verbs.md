@@ -95,6 +95,32 @@ Although there are almost 100 mixed verbs in total, many of them are formed from
 
 > PaP: gesant | Aux: haben  | PrP: sendend
 
+### wenden (to send)
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | wende     | wandte    | werde wenden  |
+| du         | wendest   | wandtest  | wirst wenden  |
+| er/sie/es  | wendet    | wandte    | wird wenden   |
+| wir        | wenden    | wandten   | werden wenden |
+| ihr        | wendet    | wandtet   | werdet wenden |
+| sie/Sie    | wenden    | wandten   | werden wenden |
+
+> PaP: gewendet | Aux: haben  | PrP: wendend
+
+### wissen (to know [information])
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | weiß     | wusste    | werde wissen  |
+| du         | weißt    | wusstest  | wirst wissen  |
+| er/sie/es  | weiß     | wusste    | wird wissen   |
+| wir        | wissen   | wussten   | werden wissen |
+| ihr        | wisst    | wusstet   | werdet wissen |
+| sie/Sie    | wissen   | wussten   | werden wissen |
+
+> PaP: gewusst | Aux: haben  | PrP: wissend
+
 
 
 [back](./)
