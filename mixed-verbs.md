@@ -41,8 +41,7 @@ Although there are almost 100 mixed verbs in total, many of them are formed from
 | ihr        | denkt     | dachtet   | werdet denken |
 | sie/Sie    | denken    | dachten   | werden denken |
 
-> past participle = gedacht
-> present participle = denkend
+> past participle = gedacht / present participle = denkend
 
 
 [back](./)
