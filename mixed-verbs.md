@@ -43,5 +43,19 @@ Although there are almost 100 mixed verbs in total, many of them are formed from
 
 > past participle = gedacht | present participle = denkend
 
+### kennen (to know [things or people])
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | kenne     | kannte    | werde kennen  |
+| du         | kennst    | kanntest  | wirst kennen  |
+| er/sie/es  | kennt     | kannte    | wird kennen   |
+| wir        | kennen    | kannten   | werden kennen |
+| ihr        | kennt     | kanntet   | werdet kennen |
+| sie/Sie    | kennen    | kannten   | werden kennen |
+
+> past participle = gekannt | present participle = kennend
+
+
 
 [back](./)
