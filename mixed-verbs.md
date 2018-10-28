@@ -15,7 +15,7 @@ Although there are almost 100 mixed verbs in total, many of them are formed from
 | ihr        | brennt     | branntet   | werdet brennen |
 | sie/Sie    | brennen    | brannten   | werden brennen |
 
-> past participle = gebrannt
+> PaP: gebrannt | Aux: haben  | PrP: brennend
 
 ### bringen (to bring)
 
@@ -28,7 +28,7 @@ Although there are almost 100 mixed verbs in total, many of them are formed from
 | ihr        | bringt     | brachtet   | werdet bringen |
 | sie/Sie    | bringen    | brachten   | werden bringen |
 
-> past participle = gebracht
+> PaP: gebracht | Aux: haben  | PrP: bringend
 
 ### denken (to think)
 
@@ -41,7 +41,7 @@ Although there are almost 100 mixed verbs in total, many of them are formed from
 | ihr        | denkt     | dachtet   | werdet denken |
 | sie/Sie    | denken    | dachten   | werden denken |
 
-> past participle = gedacht | present participle = denkend
+> PaP: gedacht | Aux: haben  | PrP: denkend
 
 ### kennen (to know [things or people])
 
@@ -54,7 +54,46 @@ Although there are almost 100 mixed verbs in total, many of them are formed from
 | ihr        | kennt     | kanntet   | werdet kennen |
 | sie/Sie    | kennen    | kannten   | werden kennen |
 
-> past participle = gekannt | present participle = kennend
+> PaP: gekannt | Aux: haben  | PrP: kennend
+
+### nennen (to name)
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | nenne     | nannte    | werde nennen  |
+| du         | nennst    | nanntest  | wirst nennen  |
+| er/sie/es  | nennt     | nannte    | wird nennen   |
+| wir        | nennen    | nannten   | werden nennen |
+| ihr        | nennt     | nanntet   | werdet nennen |
+| sie/Sie    | nennen    | nannten   | werden nennen |
+
+> PaP: genannt | Aux: haben  | PrP: nennend
+
+### rennen (to run)
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | renne     | rannte    | werde rennen  |
+| du         | rennst    | ranntest  | wirst rennen  |
+| er/sie/es  | rennt     | rannte    | wird rennen   |
+| wir        | rennen    | rannten   | werden rennen |
+| ihr        | rennt     | ranntet   | werdet rennen |
+| sie/Sie    | rennen    | rannten   | werden rennen |
+
+> PaP: gerannt | Aux: sein  | PrP: rennend
+
+### senden (to send)
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | sende     | sandte    | werde senden  |
+| du         | sendest   | sandtest  | wirst senden  |
+| er/sie/es  | sendet    | sandte    | wird senden   |
+| wir        | senden    | sandten   | werden senden |
+| ihr        | sendet    | sandtet   | werdet senden |
+| sie/Sie    | senden    | sandten   | werden senden |
+
+> PaP: gesant | Aux: haben  | PrP: sendend
 
 
 
