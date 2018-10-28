@@ -30,6 +30,19 @@ Although there are almost 100 mixed verbs in total, many of them are formed from
 
 > past participle = gebracht
 
+### denken (to think)
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | denke     | dachte    | werde denken  |
+| du         | denkst    | dachtest  | wirst denken  |
+| er/sie/es  | denkt     | dachte    | wird denken   |
+| wir        | denken    | dachten   | werden denken |
+| ihr        | denkt     | dachtet   | werdet denken |
+| sie/Sie    | denken    | dachten   | werden denken |
+
+> past participle = gedacht
+> present participle = denkend
 
 
 [back](./)
