@@ -6,7 +6,7 @@ layout: default
 
 ### Sprachurlaub wordliste
 
-[Link to Auxiliary verbs](sprachurlaub.html).
+[Link to Sprachurlaub wordliste](sprachurlaub.html).
 
 ### Lets start with the Auxiliary verbs.
 
