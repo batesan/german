@@ -30,7 +30,14 @@ layout: default
 - [Verbix German Verb Conjugator](http://www.verbix.com/languages/german.html)
 - [Verbformen.com](https://www.verbformen.com/)
 - [German Verbs by lang.global](https://germanverbs.lang.global/)
+- [Goethe Institut](https://www.goethe.de/en/index.html)
+- [Collins English-German Dictionary Institute](https://www.collinsdictionary.com/dictionary/english-german)
+- [Learn German Easily](https://learn-german-easily.com/)
 
+### Some YouTube Channels
+
+- [Learn German with Anja](https://www.youtube.com/channel/UCZwegPHTG4gvnR0WLzaq5OQ)
+- [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)
 
 ```
 End
