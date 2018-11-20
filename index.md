@@ -6,34 +6,17 @@ layout: default
 
 ## Verbs
 
-### Lets start with the Auxiliary verbs.
-
-[Link to Auxiliary verbs](./auxiliary-verbs.html).
-
-### Then move to the Modal verbs.
-
-[Link to Modal verbs](./modal-verbs.html).
-
-### Here are some Mixed verbs.
-
-[Link to Mixed verbs](./mixed-verbs.html).
-
-### Here are some Strong verbs.
-
-[Link to Mixed verbs](./strong-verbs.html).
-
-### Now for some nice easy 'regular' Weak verbs.
-
-[Link to Weak Verbs](./weak-verbs.html).
+- [Link to the Auxiliary verbs](./auxiliary-verbs.html)
+- [Link to the Modal verbs](./modal-verbs.html)
+- [Link to some Mixed verbs](./mixed-verbs.html)
+- [Link to some Strong verbs](./strong-verbs.html)
+- [Link to some regular Weak Verbs](./weak-verbs.html)
 
 ## Wortlisten
 
-### Sprachurlaub wortliste
+- [Link to Sprachurlaub wordliste](sprachurlaub.html)
 
-[Link to Sprachurlaub wordliste](sprachurlaub.html).
-
-
-## Some useful links
+## Some useful external links
 
 ### Verb Conjugation
 
