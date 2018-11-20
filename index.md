@@ -26,14 +26,14 @@ layout: default
 
 ### Some useful links
 
+- [Verbformen.com](https://www.verbformen.com/)
 - [GermanVeryEasy.com](https://www.germanveryeasy.com)
 - [University of Michigan - German 101-326](https://www.lsa.umich.edu/german/hmr/index.html)
 - [German for English Speakers](http://germanforenglishspeakers.com/)
 - [Verbix German Verb Conjugator](http://www.verbix.com/languages/german.html)
-- [Verbformen.com](https://www.verbformen.com/)
 - [German Verbs by lang.global](https://germanverbs.lang.global/)
 - [Goethe Institut](https://www.goethe.de/en/index.html)
-- [Collins English-German Dictionary Institute](https://www.collinsdictionary.com/dictionary/english-german)
+- [Collins English-German Dictionary](https://www.collinsdictionary.com/dictionary/english-german)
 - [Learn German Easily](https://learn-german-easily.com/)
 
 ### Some YouTube Channels

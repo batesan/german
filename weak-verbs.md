@@ -18,5 +18,20 @@ Weak verbs are also known as 'regular' verbs. This is the most common type of ve
 >
 >past participle = gesagt
 
+### lachen (to laugh)
+
+| pronoun    | Present    | Past       | Future |
+|:-----------|:-----------|:-----------|:--------|
+| ich        | lache       | lachte      | werde lachen  |
+| du         | lachst      | lachtest    | wirst lachen  |
+| er/sie/es  | lacht       | lachte      | wird lachen   |
+| wir        | lachen      | lachten     | werden lachen |
+| ihr        | lacht       | lachtet     | werdet lachen |
+| sie/Sie    | lachen      | lachten     | werden lachen |
+
+>formed with haben
+>
+>past participle = gelacht
+
 
 [back](./)
