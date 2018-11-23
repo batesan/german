@@ -15,7 +15,7 @@ There are 6 modal verbs and like the other auxiliary verbs, it will be difficult
 | ihr        | dürft      | durftet    | werdet dürfen |
 | sie/Sie    | dürfen     | durften    | werden dürfen |
 
-> past participle = gedurft
+> PaP: gedurft | Aux: haben  | PrP: dürfend
 
 ### können (can / to be able to)
 
@@ -28,7 +28,7 @@ There are 6 modal verbs and like the other auxiliary verbs, it will be difficult
 | ihr        | könnt      | konntet    | werdet können |
 | sie/Sie    | können     | konnten    | werden können |
 
-> past participle = gekonnt
+> PaP: gekonnt | Aux: haben  | PrP: könnend
 
 ### mögen (to like / to like to)
 
@@ -41,7 +41,7 @@ There are 6 modal verbs and like the other auxiliary verbs, it will be difficult
 | ihr        | mögt       | mochtet    | werdet mögen |
 | sie/Sie    | mögen      | mochten    | werden mögen |
 
-> past participle = gemocht
+> PaP: gemocht | Aux: haben  | PrP: mögend
 
 ### müssen (must)
 
@@ -54,7 +54,7 @@ There are 6 modal verbs and like the other auxiliary verbs, it will be difficult
 | ihr        | müsst      | musstet    | werdet müssen |
 | sie/Sie    | müssen     | mussten    | werden müssen |
 
-> past participle = gemusst
+> PaP: gemusst | Aux: haben  | PrP: müssend
 
 ### sollen (should)
 
@@ -67,7 +67,7 @@ There are 6 modal verbs and like the other auxiliary verbs, it will be difficult
 | ihr        | sollt      | solltet    | werdet sollen |
 | sie/Sie    | sollen     | sollten    | werden sollen |
 
-> past participle = gesollt
+> PaP: gesollt | Aux: haben  | PrP: sollend
 
 ### wollen (to want to)
 
@@ -80,7 +80,7 @@ There are 6 modal verbs and like the other auxiliary verbs, it will be difficult
 | ihr        | wollt      | wolltet    | werdet wollen |
 | sie/Sie    | wollen     | wollten    | werden wollen |
 
-> past participle = gewollt
+> PaP: gewollt | Aux: haben  | PrP: wollend
 
 
 [back](./)
