@@ -24,13 +24,18 @@ layout: default
 - [German Verbs by lang.global](https://germanverbs.lang.global/)
 - [Verbix German Verb Conjugator](http://www.verbix.com/languages/german.html)
 
+### Dictionary / Translations
+
+- [Google Translate](https://translate.google.com/?hl=en&sl=en&tl=de)
+- [Collins English-German Dictionary](https://www.collinsdictionary.com/dictionary/english-german)
+- [linguee.de](https://www.linguee.de/deutsch-englisch)
+
 ### General German
 
 - [GermanVeryEasy.com](https://www.germanveryeasy.com)
 - [University of Michigan - German 101-326](https://www.lsa.umich.edu/german/hmr/index.html)
 - [German for English Speakers](http://germanforenglishspeakers.com/)
 - [Goethe Institut](https://www.goethe.de/en/index.html)
-- [Collins English-German Dictionary](https://www.collinsdictionary.com/dictionary/english-german)
 - [Learn German Easily](https://learn-german-easily.com/)
 
 ### YouTube Channels
