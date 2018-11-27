@@ -26,7 +26,7 @@ layout: default
 
 ### Dictionary / Translations
 
-- [Google Translate](https://translate.google.com/?hl=en&sl=en&tl=de)
+- [Google Translate](https://translate.google.com/?hl=en&sl=de&tl=en)
 - [Collins English-German Dictionary](https://www.collinsdictionary.com/dictionary/english-german)
 - [linguee.de](https://www.linguee.de/deutsch-englisch)
 
